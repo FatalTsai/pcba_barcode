@@ -1,0 +1,18 @@
+
+Y:\MTK0824\build\tmp\deploy\images\auto2712p1v1-ivi_agl>fastboot oem writewifimac  20191022abcd
+...
+(bootloader) wifi mac write ok 0x20191022abcd
+OKAY [  0.015s]
+finished. total time: 0.016s
+
+Y:\MTK0824\build\tmp\deploy\images\auto2712p1v1-ivi_agl>fastboot oem writebtmac  20191022abce
+...
+(bootloader) bt mac write ok 0x20191022abce
+OKAY [  0.014s]
+finished. total time: 0.015s
+
+Y:\MTK0824\build\tmp\deploy\images\auto2712p1v1-ivi_agl>fastboot oem readwifimac
+...
+(bootloader) wifi mac read ok 0x20191022abcd
+OKAY [  0.009s]
+finished. total time: 0.009sg
